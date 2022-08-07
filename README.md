@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./design/desktop-design.jpg)
 
 
 ### Links
